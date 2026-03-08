@@ -1,0 +1,8 @@
+{
+  "name": "PatientPal",
+  "description": "AI-powered health advocate and medical record manager",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
